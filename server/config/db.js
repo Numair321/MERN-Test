@@ -5,6 +5,6 @@ const connectToMongo = async() => {
     if(res){
         console.log("connected successfully");
     }
-};
+};   
 
 export default connectToMongo;
