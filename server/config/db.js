@@ -6,5 +6,5 @@ const connectToMongo = async() => {
         console.log("connected successfully");
     }
 };   
-
+   
 export default connectToMongo;
