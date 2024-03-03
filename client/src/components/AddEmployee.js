@@ -15,7 +15,7 @@ const AddEmployee = () => {
     birthdate: "",
     address: "",
   });
-
+  
   const [file, setFile] = useState([]);
 
   const formdata = new FormData();
